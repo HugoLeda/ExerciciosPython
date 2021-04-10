@@ -14,6 +14,7 @@ for row in range(6):
     for collum in range(6):
         if(row == collum):
             vetor[collum] = matriz[row][collum]
+matriz[0] = "a"
 
 print(matriz)            
 print(vetor)
