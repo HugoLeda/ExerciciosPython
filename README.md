@@ -7,4 +7,5 @@
   <li>Estruturas de repetição</li>
   <li>Vetores e Matrizes</li>
   <li>Funções</li>
+  <li>Bibliotecas</li>
 </ul>
