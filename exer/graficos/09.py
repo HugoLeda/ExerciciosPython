@@ -2,7 +2,7 @@
 
 import matplotlib.pyplot as plt
 
-dados = open("populacao.csv").readlines()
+dados = open("popu.csv").readlines()
 
 x, y = []
 
