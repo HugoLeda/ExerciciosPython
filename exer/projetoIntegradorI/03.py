@@ -3,10 +3,13 @@
 qtdPaes = int(input('Quantidade de pães vendidos no dia: '))
 qtdBroas = int(input('Quantidade de broas vendidas no dia: '))
 
-valorTotal = 0
-valorTotal = qtdPaes * 0.12
-valorTotal += qtdBroas * 1.5
+if (qtdBroas < 0 or qtdPaes < 0):
+  print('Quantidade vendida inválida!')
+else:
+  valorTotal = 0
+  valorTotal = qtdPaes * 0.12
+  valorTotal += qtdBroas * 1.5
 
-valorPopupanca = valorTotal * 0.1
+  valorPopupanca = valorTotal * 0.1
 
-print(f'Valor vendido no dia: R$ {valorTotal} \nValor para guardar na poupança: R$ {valorPopupanca}')
+  print(f'Valor vendido no dia: R$ {valorTotal} \nValor para guardar na poupança: R$ {valorPopupanca}')
