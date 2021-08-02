@@ -2,8 +2,11 @@
 
 qtdSand = int(input('Quantidade de sanduíches a fazer: '))
 
-pesoPres = (qtdSand * 50) / 1000
-pesoQuei = (qtdSand * 50 * 2) / 1000
-pesoHamb = (qtdSand * 100) / 1000
+if (qtdSand > 0):
+  pesoPres = (qtdSand * 50) / 1000
+  pesoQuei = (qtdSand * 50 * 2) / 1000
+  pesoHamb = (qtdSand * 100) / 1000
 
-print(f'Serão necessários:\n', pesoPres, 'Kg de preseunto\n', pesoQuei, 'Kg de queijo\n', pesoHamb, 'Kg de hamburguer')
+  print(f'Serão necessários:\n', pesoPres, 'Kg de preseunto\n', pesoQuei, 'Kg de queijo\n', pesoHamb, 'Kg de hamburguer')
+else:
+  print('Quantidade inválida!')
