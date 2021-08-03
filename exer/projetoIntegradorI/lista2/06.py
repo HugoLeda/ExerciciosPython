@@ -1,0 +1,1 @@
+# 6) Faça um programa em Python que leia a média de duas avaliações (P1 e P2). Calcule e mostre a média final do aluno. Calcule e mostre se o aluno foi APROVADO ou REPROVADO, sabendo que a média para aprovação deve ser maior ou igual a 7.
