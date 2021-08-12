@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-<img src="./exer/graficos/Figure_1.png" width="500px" height="500px" />
+  <img src="./exer/graficos/Figure_1.png" width="500px" height="500px" />
 </p>
 <br />
 <span>Primeiro gráfico gerado utilizando a biblioteca matplotlib</span>
