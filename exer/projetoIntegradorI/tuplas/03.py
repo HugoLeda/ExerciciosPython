@@ -1,0 +1,1 @@
+# Montar uma tupla que contenha o nome e a nota de alunos (5 anos). Mostrar os dados de forma tabulada e a média final da sala toda

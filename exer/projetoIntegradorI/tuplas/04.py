@@ -1,0 +1,1 @@
+# Montar uma tupla com 5 palavras. Exibir no final as vogais e a quantidade de vogais de cada palavra
