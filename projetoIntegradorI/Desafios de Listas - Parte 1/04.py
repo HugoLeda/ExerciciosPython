@@ -1,0 +1,1 @@
+# Ler vários números em uma lista até que o usuário deseje. Exibir no final: a quantidade de números digitados, a lista em ordem decrescente e a quantidade de pares e ímpares.

@@ -1,0 +1,1 @@
+# Ler vários números para uma lista até que o usuário deseje. Depois criar mais duas listas: uma somente com os números pares e outra, somente com os números ímpares. Mostrar as 3 listas no final. 
