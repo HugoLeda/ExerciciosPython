@@ -9,14 +9,12 @@ def verificarElemento(lista: list, el: int):
   return False
 
 def ordenarLista(lista: list):
-  
   for i in range(len(lista) - 1, 0, -1):
     for j in range(i):
-      if (lista[j][1] > lista[j + 1][1]):
+      if (lista[j] > lista[j + 1]):
         temp = lista[j]
         lista[j] = lista[j + 1]
         lista[j + 1] = temp
-
   return lista
 
 continuar = True
@@ -24,7 +22,7 @@ while (continuar == True):
   n = int(input('Digite um número: '))
 
   while (verificarElemento(lista, n)):
-    n = int(input('Elemnto ja inserido! Digite outro: '))
+    n = int(input('Elemento ja inserido! Digite outro: '))
 
   lista.append(n)
   resp = input('Deseja continuar [S/N]: ')
