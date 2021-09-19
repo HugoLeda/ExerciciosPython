@@ -1,0 +1,1 @@
+# Faça um script que gere palpites para a loteria. O script deve perguntar quantos jogos serão gerados e sorteará 6 números de 1 a 60 para cada jogo, cadastrando tudo em uma lista composta. Mostre a lista composta gerada no final.

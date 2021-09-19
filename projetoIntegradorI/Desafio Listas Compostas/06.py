@@ -1,0 +1,1 @@
+# Leia o nome, a nota P1 e a nota P2 dos alunos do curso de ciências de dados, guardando tudo em uma lista composta. No final mostre todos os dados dos alunos e sua média final calculada (mostre em forma de tabela). Permita também mostrar as notas de cada aluno individualmente.

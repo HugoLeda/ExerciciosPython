@@ -1,0 +1,1 @@
+# Faça um script que leia 10 números inteiros para uma lista composta (por 3 listas internas) que mantenha separados os números positivos, negativos e os números neutros. No final mostre todas as sub-listas em ordem crescente.

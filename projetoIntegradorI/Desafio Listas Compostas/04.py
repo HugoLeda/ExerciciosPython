@@ -1,0 +1,1 @@
+# Faça um script que leia uma matriz 2 X 2 de números inteiros. Mostre no final: a soma de todos os números, a soma dos valores da segunda coluna e o maior número da primeira linha.

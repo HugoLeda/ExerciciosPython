@@ -1,0 +1,1 @@
+# Faça um script que leia uma matriz 2 X 2 de números inteiros. Mostre no final a matriz em formatação correta (forma de matriz).
