@@ -1,0 +1,1 @@
+# .Faça uma função que receba n valores (usando o desempacotador *) e exiba a soma dos valores.

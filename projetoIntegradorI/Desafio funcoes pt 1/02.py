@@ -1,0 +1,1 @@
+# Faça uma função que calcule a área de um terreno retangular. A função deve receber como parâmetros a largura e comprimento do terreno.

@@ -1,0 +1,1 @@
+# Faça uma função que leia n números inteiros e mostre o maior e menor número digitados.

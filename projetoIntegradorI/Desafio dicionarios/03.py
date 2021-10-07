@@ -1,0 +1,1 @@
+#  Faça um script que represente o saldo de gols de um time de futebol. Ler o nome do time, número de partidas jogadas e a quantidade de gols feitos em cada partida, guardando tudo em um dicionário, inclusive o total de gols feitos durante todo o campeonato.
