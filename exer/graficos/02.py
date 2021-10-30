@@ -10,6 +10,5 @@ plt.title("Título do Gráfico")
 plt.xlabel("Eixo X")
 plt.ylabel("Eixo Y")
 
-
 plt.plot(x,y)
 plt.show()
