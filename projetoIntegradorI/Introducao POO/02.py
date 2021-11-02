@@ -11,5 +11,5 @@ class Usuario:
   def saudar(self):
     print(f'Olá: {self.nome} {self.sobrenome}')
 
-diogo = Usuario("João Hugo", "Leda")
-diogo.saudar()
+user = Usuario("João Hugo", "Leda de Carvalho")
+user.saudar()
